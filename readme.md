@@ -25,5 +25,9 @@
 [Click here](https://github.com/yashashri18/Html_Css_Project6)
 
 
+# Projects on Tailwind
 
+## Project 1 (VSCode Clone)
+
+[Click here](https://github.com/yashashri18/Tailwind_Project1-VSCode_Clone-)
 
