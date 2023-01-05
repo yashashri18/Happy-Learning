@@ -24,6 +24,11 @@
 
 [Click here](https://github.com/yashashri18/Html_Css_Project6)
 
+# Advanced Projects on Html,Css
+
+## Project 1
+
+[Click here](https://github.com/yashashri18/Html_Css_Project7)
 
 # Projects on Tailwind
 
